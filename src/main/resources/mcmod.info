@@ -1,0 +1,16 @@
+[
+{
+  "modid": "logspamfilter",
+  "name": "Log Spam Filter",
+  "description": "Filtering unwanted log spam",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["sblectric"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
